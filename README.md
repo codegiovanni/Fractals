@@ -1,5 +1,5 @@
 # Fractals
-Fractals with Pygame
+Fractals with Python/Pygame
 
 YT tutorial:
 https://youtu.be/-ULt_LiHftI
