@@ -1,0 +1,5 @@
+YF
+2
+X YF+XF+Y
+Y XF-YF-X
+60
